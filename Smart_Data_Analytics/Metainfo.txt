@@ -1,0 +1,14 @@
+Name of Quantlet: Smart_Data_Analytics
+
+Published in: Teaching Materials
+
+Description: ‘Extract text data of Abstracts from SFB website and explore the abstracts, draw words cloud.’
+
+Keywords: data visualisation, distribution, plot, simulation, distribution
+
+Author: Linxi Wang, Nikoleta Kovachka
+
+See also: ‘for listing related, similar Quantlets or Github code from your point of view - delete if not used’
+
+Submitted:  Tue, November 16 2016 by Linxi Wang
+
